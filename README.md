@@ -3,6 +3,7 @@
 **Ghost Core | Section 8 Housing System**  
 A full-featured Section 8 housing resource for FiveM, built for QBCore with multi-framework, multi-inventory, and multi-target compatibility.
 
+SHOWCASE: https://youtu.be/7rBXf94E_pw
 ---
 
 ## Features
